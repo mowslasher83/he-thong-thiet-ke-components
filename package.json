@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo 'Error: no test specified' && exit 1",
     "test:unit": "jest", // Placeholder for unit tests
-    "test:watch": "jest --watch" // Add watch mode for easier dev testing
+    "test:watch": "jest --watch", // Add watch mode for easier dev testing
+    "test:all": "jest --collectCoverage" // New command to run all tests with coverage
   },
   "keywords": ["UI", "component", "design", "frontend"],
   "author": "Tên tác giả",
