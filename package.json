@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo 'Error: no test specified' && exit 1",
-    "test:unit": "jest" // Placeholder for unit tests"
+    "test:unit": "jest" // Placeholder for unit tests
   },
   "keywords": ["UI", "component", "design", "frontend"],
   "author": "Tên tác giả",
