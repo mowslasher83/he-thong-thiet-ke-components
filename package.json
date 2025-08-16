@@ -1,0 +1,12 @@
+{
+  "name": "he-thong-thiet-ke-components",
+  "version": "1.0.0",
+  "description": "Một hệ thống thiết kế nhỏ gọn cho các component UI học tập cho lập trình viên mới.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "keywords": ["UI", "component", "design", "frontend"],
+  "author": "Tên tác giả",
+  "license": "MIT"
+}
