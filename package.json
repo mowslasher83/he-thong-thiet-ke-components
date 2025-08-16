@@ -9,5 +9,9 @@
   },
   "keywords": ["UI", "component", "design", "frontend"],
   "author": "Tên tác giả",
-  "license": "MIT"
-}
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/he-thong-thiet-ke-components.git"
+  },
+  "readme": "# Hệ thống thiết kế components\n\nĐây là một hệ thống thiết kế nhỏ gọn cho các component UI. Cài đặt bằng cách sử dụng npm install."
