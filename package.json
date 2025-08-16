@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo 'Error: no test specified' && exit 1",
-    "test:unit": "jest" // Placeholder for unit tests
+    "test:unit": "jest", // Placeholder for unit tests
+    "test:watch": "jest --watch" // Add watch mode for easier dev testing
   },
   "keywords": ["UI", "component", "design", "frontend"],
   "author": "Tên tác giả",
@@ -15,3 +16,4 @@
     "url": "https://github.com/username/he-thong-thiet-ke-components.git"
   },
   "readme": "# Hệ thống thiết kế components\n\nĐây là một hệ thống thiết kế nhỏ gọn cho các component UI. Cài đặt bằng cách sử dụng npm install."
+}
